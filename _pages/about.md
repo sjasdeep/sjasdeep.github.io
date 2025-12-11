@@ -27,8 +27,8 @@ latest_posts:
 
 I am a fifth-year undergraduate at the University of Colorado Boulder, pursuing a B.S. in Computer Science and a B.S. in Applied Mathematics, along with a minor in Statistics and the Quantitative Finance Certificate. I will graduate in May 2026.
 
-My research interests lie at the intersection of optimization, machine learning, neural networks, and human-computer interaction. I am currently advised by Professor [Sriram Sankaranarayanan](https://home.cs.colorado.edu/~srirams/) and conduct research in the [Programming Languages and Verification Laboratory](https://plv.colorado.edu//). My current work focuses on providing effective feedback to users in a 2D drone simulation environment by computing optimal corrective trajectories and leveraging large language models for interactive feedback.
+I am a researcher bridging the gap between optimization, machine learning, neural networks, and human-computer interaction. I am currently advised by Professor [Sriram Sankaranarayanan](https://home.cs.colorado.edu/~srirams/) and conduct research in the [Programming Languages and Verification Laboratory](https://plv.colorado.edu//). My current work focuses on providing effective feedback to users in a 2D drone simulation environment by computing optimal corrective trajectories and leveraging large language models for interactive feedback.
 
-I plan to pursue a Ph.D. starting in Fall 2026, with the goal of contributing to the academic community through research and teaching.
+I intend to pursue a Ph.D. starting in Fall 2026, focusing on control systems, autonomous systems, and formal verification. My research goal is to develop rigorous, mathematically grounded methods to ensure the safety and reliability of intelligent systems, particularly where learning-based control intersects with formal safety guarantees.
 
 Outside of academics, I enjoy playing basketball, tennis, and pickleball.
