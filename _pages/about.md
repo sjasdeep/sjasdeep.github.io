@@ -32,3 +32,5 @@ I am a researcher bridging the gap between optimization, machine learning, neura
 I intend to pursue a Ph.D. starting in Fall 2026, focusing on control systems, autonomous systems, and formal verification. My research goal is to develop rigorous, mathematically grounded methods to ensure the safety and reliability of intelligent systems, particularly where learning-based control intersects with formal safety guarantees.
 
 Outside of academics, I enjoy playing basketball, tennis, and pickleball.
+
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=SjBzQy9Uj_mxOAPgDbz-nxfgPt_5MEPgoADaWV6xhEc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
