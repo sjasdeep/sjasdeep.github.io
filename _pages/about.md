@@ -33,4 +33,10 @@ I intend to pursue a Ph.D. starting in Fall 2026, focusing on control systems, a
 
 Outside of academics, I enjoy playing basketball, tennis, and pickleball.
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=SjBzQy9Uj_mxOAPgDbz-nxfgPt_5MEPgoADaWV6xhEc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<div style="display: none;">
+  <script
+    type="text/javascript"
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=n&d=SjBzQy9Uj_mxOAPgDbz-nxfgPt_5MEPgoADaWV6xhEc&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff">
+  </script>
+</div>
