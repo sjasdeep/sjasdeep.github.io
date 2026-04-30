@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Pennsylvania | <a href='https://www.grasp.upenn.edu/'>GRASP Laboratory</a> | <a href='mailto:sjasdeep@seas.upenn.edu">sjasdeep@seas.upenn.edu</a>
+subtitle: University of Pennsylvania | <a href='https://www.grasp.upenn.edu/'>GRASP Laboratory</a> | <a href='mailto:sjasdeep@seas.upenn.edu'>sjasdeep@seas.upenn.edu</a>
 
 profile:
   align: right
