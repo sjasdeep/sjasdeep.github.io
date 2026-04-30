@@ -9,12 +9,12 @@ last_name: Singh
 contact_note: >
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Jasdeep Singh – Computer Science and Applied Mathematics student at the University of Colorado Boulder. Research interests include AI, optimization, autonomous systems, and applied mathematics. Explore my projects, publications, and portfolio.
+  Jasdeep Singh – Robotics M.S. student at the University of Pennsylvania. Research interests include safe learning, autonomous systems, and control theory. Explore my projects, publications, and portfolio.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Jasdeep Singh, Computer Science, Applied Mathematics, AI, Optimization, Machine Learning, University of Colorado Boulder, Research, Portfolio # add your own keywords or leave empty
+keywords: Jasdeep Singh, Computer Science, Applied Mathematics, AI, Optimization, Machine Learning, University of Colorado Boulder, Research, Portfolio, Robotics, Control Theory, University of Pennsylvania, Safe Learning, GRASP Laboratory, GRASP Lab # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

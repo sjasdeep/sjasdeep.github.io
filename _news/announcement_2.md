@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted the Intelligent Systems in Electrical Engineering and Computer Engineering REU at the University of Utah.
+Accepted the Intelligent Systems in Electrical Engineering and Computer Engineering REU at the University of Utah

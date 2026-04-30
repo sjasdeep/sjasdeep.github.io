@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Colorado Boulder | <a href='https://plv.colorado.edu//'>Programming Languages and Verification Laboratory</a>
+subtitle: University of Pennsylvania | <a href='https://www.grasp.upenn.edu/'>GRASP Laboratory</a> <br> <a href='mailto:sjasdeep@seas.upenn.edu">sjasdeep@seas.upenn.edu</a>
 
 profile:
   align: right
   image: IMG_Prof_Pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Undergraduate Researcher</p>
+    <p>Incoming M.S. Robotics Student @ UPenn</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,11 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth-year undergraduate at the University of Colorado Boulder, pursuing a B.S. in Computer Science and a B.S. in Applied Mathematics, along with a minor in Statistics and the Quantitative Finance Certificate. I will graduate in May 2026.
+<br>
 
-I am a researcher bridging the gap between optimization, machine learning, neural networks, and human-computer interaction. I am currently advised by Professor [Sriram Sankaranarayanan](https://home.cs.colorado.edu/~srirams/) and conduct research in the [Programming Languages and Verification Laboratory](https://plv.colorado.edu//). My current work focuses on providing effective feedback to users in a 2D drone simulation environment by computing optimal corrective trajectories and leveraging large language models for interactive feedback.
+I am an incoming Master’s student in Robotics at the University of Pennsylvania. I graduated from the University of Colorado Boulder with a B.S. in Computer Science and a B.S. in Applied Mathematics, along with a minor in Statistics and a Quantitative Finance Certificate.
 
-I intend to pursue a Ph.D. starting in Fall 2026, focusing on control systems, autonomous systems, and formal verification. My research goal is to develop rigorous, mathematically grounded methods to ensure the safety and reliability of intelligent systems, particularly where learning-based control intersects with formal safety guarantees.
+I am a researcher interested in control theory, safe learning, and autonomous systems, with a focus on developing principled and reliable methods for intelligent decision-making. I have worked at the intersection of optimization, machine learning, neural networks, and human-computer interaction. I was advised by Professor [Sriram Sankaranarayanan](https://home.cs.colorado.edu/~srirams/) in the [Programming Languages and Verification Laboratory](https://plv.colorado.edu//), where my work focused on providing effective feedback to users in a 2D drone simulation environment by computing optimal corrective trajectories and leveraging large language models for interactive guidance.
 
 Outside of academics, I enjoy playing basketball, tennis, and pickleball.
 
