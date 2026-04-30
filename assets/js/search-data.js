@@ -413,6 +413,12 @@ ninja.data = [{
           section: "News",},{id: "news-presented-at-the-undergraduate-research-symposium",
           title: 'Presented at the Undergraduate Research Symposium',
           description: "",
+          section: "News",},{id: "news-honored-with-the-research-award-and-academic-engagement-award-for-graduating-students",
+          title: 'Honored with the Research Award and Academic Engagement Award for graduating students.',
+          description: "",
+          section: "News",},{id: "news-joining-m-s-robotics-upenn-fall-2026",
+          title: 'Joining M.S. Robotics @ UPenn (Fall 2026)!',
+          description: "",
           section: "News",},{id: "projects-image-compression",
           title: 'Image Compression',
           description: "A linear algebra project exploring image compression through Singular Value Decomposition (SVD) and Fourier Transform techniques.",
@@ -438,7 +444,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%61%73%64%65%65%70.%73%69%6E%67%68@%63%6F%6C%6F%72%61%64%6F.%63%6F%6D", "_blank");
+          window.open("mailto:%73%6A%61%73%64%65%65%70@%73%65%61%73.%75%70%65%6E%6E.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
