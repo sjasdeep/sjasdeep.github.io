@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Pennsylvania | <a href='https://www.grasp.upenn.edu/'>GRASP Laboratory</a> <br> <a href='mailto:sjasdeep@seas.upenn.edu">sjasdeep@seas.upenn.edu</a>
+subtitle: University of Pennsylvania | <a href='https://www.grasp.upenn.edu/'>GRASP Laboratory</a> | <a href='mailto:sjasdeep@seas.upenn.edu">sjasdeep@seas.upenn.edu</a>
 
 profile:
   align: right
@@ -25,7 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<br>
 
 I am an incoming Master’s student in Robotics at the University of Pennsylvania. I graduated from the University of Colorado Boulder with a B.S. in Computer Science and a B.S. in Applied Mathematics, along with a minor in Statistics and a Quantitative Finance Certificate.
 
