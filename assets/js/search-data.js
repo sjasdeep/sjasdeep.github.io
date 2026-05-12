@@ -419,26 +419,26 @@ ninja.data = [{
           section: "News",},{id: "news-joining-m-s-robotics-upenn-fall-2026",
           title: 'Joining M.S. Robotics @ UPenn (Fall 2026)!',
           description: "",
-          section: "News",},{id: "projects-image-compression",
-          title: 'Image Compression',
-          description: "A linear algebra project exploring image compression through Singular Value Decomposition (SVD) and Fourier Transform techniques.",
+          section: "News",},{id: "projects-bayesian-rover-core",
+          title: 'Bayesian RoVeR-CoRe',
+          description: "A probabilistic safety analysis project using Bayesian inference and Monte Carlo simulation to quantify conservatism in formal verification of autonomous rover controllers.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/BayesRoverCore/";
             },},{id: "projects-chladni-plates",
           title: 'Chladni Plates',
           description: "Modeling Chladni plate vibration patterns using PDEs to predict and compare spatial structures at natural frequencies.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/ChladniPlates/";
+            },},{id: "projects-image-compression",
+          title: 'Image Compression',
+          description: "A linear algebra project exploring image compression through Singular Value Decomposition (SVD) and Fourier Transform techniques.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ImageCompression/";
             },},{id: "projects-minigit",
           title: 'MiniGit',
           description: "A lightweight version control system mimicking Git’s core features—add, commit, checkout, and search—implemented without a remote server.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-infectious-disease-model-on-network",
-          title: 'Infectious Disease Model on Network',
-          description: "Simulating epidemic spread on contact networks using graph theory to compare precise face-to-face data with coarse but accessible co-presence data.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/MiniGit/";
             },},{
         id: 'social-email',
         title: 'email',
